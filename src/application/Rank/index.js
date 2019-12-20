@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Rank (props) {
+function Rank() {
   return (
     <div>Rank</div>
   )
